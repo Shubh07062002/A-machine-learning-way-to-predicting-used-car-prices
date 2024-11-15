@@ -19,4 +19,4 @@ In this project, I developed a machine learning model that predicts the prices o
 ## How to Run the Project
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/used-car-price-prediction.git
+   git clone https://github.com/your-username/used-car-price-prediction](https://github.com/Shubh07062002/A-machine-learning-way-to-predicting-used-car-prices.git
